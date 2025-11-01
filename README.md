@@ -5,6 +5,8 @@ For this project we plan to implement a number of machine learning techniques. S
 
 Each model's performance will be evaluated in terms of their accuracy of classification, interpretability of results, and their computational efficiency. We would also like to introduce a measure of overall prediction confidence, where we will convert the predictions of each test result into a probability density function, with which we will measure the entropy. We do this because we would like some measure on the overall confidence in our models predictions in addition to its accuracy. 
 
+The dataset we used for this project can be downloaded from here:  [478-Point Normalized 3D Facial Landmark Dataset]([https://github.com/JuliaDSP/Wavelets.jl](https://www.kaggle.com/datasets/psewmuthu/optimized-video-facial-landmarks))
+
 # Deliverables
 
 - A comparative analysis of classical vs. neural network models on landmark-based emotion recognition. 
