@@ -1,0 +1,31 @@
+# ===== Data (keep out of git) =====
+data/
+*.parquet
+*.npz
+*.npy
+*.csv
+*.pkl
+
+# ===== Outputs / reports / figures =====
+reports/
+*.json
+*.png
+*.pdf
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+ENV/
+.env
+
+# ===== Editors / OS =====
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
